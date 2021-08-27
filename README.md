@@ -1,2 +1,9 @@
-# R-Project-004
-Summer Research Project on Covid-19's impact on Cal Poly Student population
+This study was a convenience sample as we reached out to Cal Poly students that the student had access to ether than randomly sampling from the Cal Poly population. This is due to two major factors, limitations on interaction from Covid-19 and a lack of a database of Cal Poly students that we can access. During non Covid times, a stratified survey done in person is much more accessible as we would have the ability to communicate with whoever in the population and access these individuals in person. Because nobody is around campus, we had to find a new strategy, and reaching out to as many students via convenience was the only route we could take. The lack of a database containing information and contacts of Cal Poly students also hindered our research from being able to randomly sample students in the population in other forms(via age, ethnicity, etc.) 
+
+Therefore, our results are not generizable to the whole Cal Poly population, as we did not randomly sample. However, it is interesting to look at what we have found and see what findings on parts of the population may entail for the broader implications.
+
+Findings: 
+For our data analysis, we used two statistical tests on many different variables, 2 proportion z tests and a simulation based chi-squared test of association. For both tests, we used 2 proportion z test and chi-square functions within our statistical software to compare sample proportions. 
+
+It should be noted that tests and comparisons were done across variables such as ethnicity, gender, sampling method, socioeconomic class, primary location, in or out of state, college, and year standing. These variables were compared across categories such as motivation levels, GPA change from before and after covid, whether you have learned sufficient skills in covid time learning, and whether you have learned material better, worse, or the same through the online format brought by Covid time learning. We will be looking at significance in populations of our variables as well as cumulative results across these 4 categories. 
+
